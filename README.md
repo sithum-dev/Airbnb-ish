@@ -7,24 +7,9 @@
   </a>
 </p>
 
-> Airbnb UI clone using Next.js + styled-components. (Todo: Search functionality and Mapbox integration)
+> Airbnb UI clone using Next.js + styled-components.
 
 ### ✨ [Live Demo](https://airbnb-ish.vercel.app)
-
-## Author
-
-👤 **Dash Santosh**
-
-- Website: https://dashsantosh.me
-- Github: [@santdas36](https://github.com/santdas36)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-<p>
-  <a href="https://www.buymeacoffee.com/santdas36"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/santdas36" /></a>
-</p>
-<br /><br />
 
 ## Getting Started
 
@@ -37,3 +22,14 @@ yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Author
+
+👤 **Sithum Imarsha**
+
+- Website: https://sithumimarsha.com/
+- Github: [@sithum-dev](https://github.com/sithum-dev)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
